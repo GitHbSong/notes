@@ -1,3 +1,5 @@
+死锁是指两个或两个以上的进程在执行过程中，由于竞争资源或者由于彼此通信而造成的一种阻塞的现象，若无外力作用，它们都将无法推进下去
+
 public class DeadLock {
     public static final String LOCK_1 = "lock1";
     public static final String LOCK_2 = "lock2";
